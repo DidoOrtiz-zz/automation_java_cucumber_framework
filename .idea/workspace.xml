@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af07f600-e71a-4154-8e96-5cc914dcb550" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFC9zKLDkTwFlWPDvLEKEsv1pN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Feature: Facebook_Login">
+    <configuration name="Feature: Facebook_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Feature_Files/Facebook/Facebook_Login.feature" />
+      <option name="GLUE" value="GlueCode" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automation_java_cucumber_framework" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Facebook_Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Successful login to Facebook" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Feature_Files/Facebook/Facebook_Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="automation_java_cucumber_framework" />
+      <option name="NAME_FILTER" value="^Successful login to Facebook$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Successful login to Facebook$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successful login to Facebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.Feature: Facebook_Login" />
+      <item itemvalue="Cucumber java.Scenario: Successful login to Facebook" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Feature: Facebook_Login" />
+        <item itemvalue="Cucumber java.Scenario: Successful login to Facebook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af07f600-e71a-4154-8e96-5cc914dcb550" name="Default Changelist" comment="" />
+      <created>1586321808058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586321808058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="82" key="#Project_Structure" timestamp="1586398050761">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="82" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586398050761" />
+    <state x="320" y="98" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1586333167367" />
+    <state x="369" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586333876008">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="369" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1586333876008" />
+    <state width="1398" height="358" key="GridCell.Tab.0.bottom" timestamp="1586452655521">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586452655521" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1586333883565" />
+    <state width="1398" height="358" key="GridCell.Tab.0.center" timestamp="1586452655519">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="358" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586452655519" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1586333883563" />
+    <state width="1398" height="358" key="GridCell.Tab.0.left" timestamp="1586452655518">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="358" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586452655518" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1586333883563" />
+    <state width="1398" height="358" key="GridCell.Tab.0.right" timestamp="1586452655520">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="358" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586452655520" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1586333883565" />
+    <state x="229" y="53" key="SettingsEditor" timestamp="1586401696116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="53" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586401696116" />
+    <state x="229" y="71" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1586332481810" />
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586331905587">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1586331905587" />
+    <state x="477" y="361" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1586332855451">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="477" y="361" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1440.819@0.23.1440.819" timestamp="1586332855451" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586451038356">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586451038356" />
+  </component>
+</project>
