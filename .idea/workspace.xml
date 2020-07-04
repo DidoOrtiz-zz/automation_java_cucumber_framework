@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af07f600-e71a-4154-8e96-5cc914dcb550" name="Default Changelist" comment="" />
+    <list default="true" id="af07f600-e71a-4154-8e96-5cc914dcb550" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/automation_java_cucumber_framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/didiortiz.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/GlueCode/GeneralStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GlueCode/GeneralStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunners/TestRunnerS4N.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunners/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/Feature_Files/S4Npage/S4N_CreateAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Feature_Files/S4Npage/S4N_CreateAccount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testSuites/S4N.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testSuites/RunTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/cucumber-pretty/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Feature_Files/S4Npage/S4N_CreateAccount.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Feature_Files/S4Npage/S4N_CreateAccount.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GlueCode/AccountCreationStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GlueCode/AccountCreationStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/GlueCode/GeneralStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/GlueCode/GeneralStepDefinitions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunners/TestDefaultValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestRunners/TestDefaultValues.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestRunners/TestRunnerS4N.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/BasicActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/BasicActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/S4nAccountCreationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/S4nAccountCreationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testSuites/S4N.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,32 +58,30 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aFC9zKLDkTwFlWPDvLEKEsv1pN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber java.Feature: Facebook_Login">
+  <component name="RunManager" selected="TestNG.LocalExecution">
     <configuration name="Feature: Facebook_Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Feature_Files/Facebook/Facebook_Login.feature" />
@@ -76,14 +118,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LocalExecution" type="TestNG">
+      <module name="automation_java_cucumber_framework" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestRunners" />
+      <option name="MAIN_CLASS_NAME" value="TestRunners.TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/test-output" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/didiortiz/Documents/automation/automation_java_cucumber_framework/src/test/resources/testSuites/RunTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="automation_java_cucumber_framework" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testSuites/RunTests.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="14" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="TestRunners" />
+      <option name="MAIN_CLASS_NAME" value="TestRunners.TestRunner" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: Facebook_Login" />
-      <item itemvalue="Cucumber java.Scenario: Successful login to Facebook" />
+      <item itemvalue="Cucumber Java.Feature: Facebook_Login" />
+      <item itemvalue="Cucumber Java.Scenario: Successful login to Facebook" />
+      <item itemvalue="TestNG.LocalExecution" />
+      <item itemvalue="TestNG./Users/didiortiz/Documents/automation/automation_java_cucumber_framework/src/test/resources/testSuites/RunTests.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Feature: Facebook_Login" />
-        <item itemvalue="Cucumber java.Scenario: Successful login to Facebook" />
+        <item itemvalue="TestNG./Users/didiortiz/Documents/automation/automation_java_cucumber_framework/src/test/resources/testSuites/RunTests.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -100,45 +202,74 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="82" key="#Project_Structure" timestamp="1586398050761">
+    <state x="362" y="58" key="#/Users/didiortiz/Documents/automation/automation_java_cucumber_framework/src/test/resources/testSuites/RunTests.xml" timestamp="1593238064031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="82" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586398050761" />
+    <state x="362" y="58" key="#/Users/didiortiz/Documents/automation/automation_java_cucumber_framework/src/test/resources/testSuites/RunTests.xml/0.0.1440.900@0.0.1440.900" timestamp="1593238064031" />
+    <state x="320" y="23" width="1024" height="821" key="#Project_Structure" timestamp="1593236254280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="23" width="1024" height="821" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1593236254280" />
     <state x="320" y="98" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1586333167367" />
-    <state x="369" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586333876008">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state x="369" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593270235678">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="369" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1593270235678" />
     <state x="369" y="107" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1586333876008" />
-    <state width="1398" height="358" key="GridCell.Tab.0.bottom" timestamp="1586452655521">
+    <state x="642" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593234973268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="358" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586452655521" />
+    <state x="642" y="227" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1593234973268" />
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom" timestamp="1593317488201">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="93" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593237846109" />
+    <state width="1398" height="92" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1593317488201" />
     <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1586333883565" />
-    <state width="1398" height="358" key="GridCell.Tab.0.center" timestamp="1586452655519">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="92" key="GridCell.Tab.0.center" timestamp="1593317488200">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="358" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586452655519" />
+    <state width="1398" height="93" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593237846108" />
+    <state width="1398" height="92" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1593317488200" />
     <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1586333883563" />
-    <state width="1398" height="358" key="GridCell.Tab.0.left" timestamp="1586452655518">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="92" key="GridCell.Tab.0.left" timestamp="1593317488200">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="358" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586452655518" />
+    <state width="1398" height="93" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593237846108" />
+    <state width="1398" height="92" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1593317488200" />
     <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1586333883563" />
-    <state width="1398" height="358" key="GridCell.Tab.0.right" timestamp="1586452655520">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1398" height="92" key="GridCell.Tab.0.right" timestamp="1593317488201">
+      <screen x="0" y="23" width="1440" height="816" />
     </state>
-    <state width="1398" height="358" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586452655520" />
+    <state width="1398" height="93" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593237846109" />
+    <state width="1398" height="92" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1593317488201" />
     <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1586333883565" />
-    <state x="229" y="53" key="SettingsEditor" timestamp="1586401696116">
+    <state x="229" y="53" key="SettingsEditor" timestamp="1593236327263">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="53" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1586401696116" />
+    <state x="229" y="53" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593236327263" />
     <state x="229" y="71" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1586332481810" />
     <state x="399" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1586331905587">
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="399" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1586331905587" />
+    <state x="421" y="82" width="598" height="735" key="find.popup" timestamp="1593235071507">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="82" width="598" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1593235071507" />
     <state x="477" y="361" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1586332855451">
       <screen x="0" y="23" width="1440" height="819" />
     </state>

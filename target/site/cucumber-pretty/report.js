@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 7212040100,
+  "duration": 5578911596,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.i_sucessfully_open_the_account_creation_page()"
 });
 formatter.result({
-  "duration": 179166700,
+  "duration": 90889725,
   "status": "passed"
 });
 formatter.scenario({
@@ -75,22 +75,22 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.fillUpNewAccountForm(DataTable)"
 });
 formatter.result({
-  "duration": 930790300,
+  "duration": 540364523,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountCreationStepDefinitions.createAccount()"
 });
 formatter.result({
-  "duration": 906339600,
+  "duration": 195069515,
   "status": "passed"
 });
 formatter.after({
-  "duration": 32800,
+  "duration": 12697,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8406749100,
+  "duration": 4084230327,
   "status": "passed"
 });
 formatter.background({
@@ -109,7 +109,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.i_sucessfully_open_the_account_creation_page()"
 });
 formatter.result({
-  "duration": 53700,
+  "duration": 21760,
   "status": "passed"
 });
 formatter.scenario({
@@ -158,22 +158,22 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.tryCreateAccountWithoutFillUpForm(DataTable)"
 });
 formatter.result({
-  "duration": 780550900,
+  "duration": 463867348,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountCreationStepDefinitions.AccountMustNotBeCreated()"
 });
 formatter.result({
-  "duration": 739042500,
+  "duration": 120727658,
   "status": "passed"
 });
 formatter.after({
-  "duration": 24100,
+  "duration": 8630,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7386310400,
+  "duration": 3936499866,
   "status": "passed"
 });
 formatter.background({
@@ -192,7 +192,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.i_sucessfully_open_the_account_creation_page()"
 });
 formatter.result({
-  "duration": 43800,
+  "duration": 21388,
   "status": "passed"
 });
 formatter.scenario({
@@ -241,22 +241,22 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.tryCreateAccountWithoutEnterTheRequiredFieldName(DataTable)"
 });
 formatter.result({
-  "duration": 1064193200,
+  "duration": 687909617,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountCreationStepDefinitions.AccountMustNotBeCreated()"
 });
 formatter.result({
-  "duration": 732446900,
+  "duration": 87788424,
   "status": "passed"
 });
 formatter.after({
-  "duration": 23300,
+  "duration": 10969,
   "status": "passed"
 });
 formatter.before({
-  "duration": 9132514300,
+  "duration": 3934379731,
   "status": "passed"
 });
 formatter.background({
@@ -275,7 +275,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.i_sucessfully_open_the_account_creation_page()"
 });
 formatter.result({
-  "duration": 42800,
+  "duration": 24524,
   "status": "passed"
 });
 formatter.scenario({
@@ -324,7 +324,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.tryCreateAccountWithoutSelectGenre(DataTable)"
 });
 formatter.result({
-  "duration": 1125269300,
+  "duration": 742261215,
   "status": "passed"
 });
 formatter.match({
@@ -337,15 +337,16 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.iMustBeAbleToSeeTheMessage(String)"
 });
 formatter.result({
-  "duration": 842708200,
-  "status": "passed"
+  "duration": 10126007437,
+  "error_message": "org.junit.ComparisonFailure: Validar si los mensajes son iguales expected:\u003c[El género es obligatorio]\u003e but was:\u003c[]\u003e\n\tat org.junit.Assert.assertEquals(Assert.java:115)\n\tat GlueCode.AccountCreationStepDefinitions.iMustBeAbleToSeeTheMessage(AccountCreationStepDefinitions.java:91)\n\tat ✽.Then I must be able to see the message \"El género es obligatorio\"(Feature_Files/S4Npage/S4N_CreateAccount.feature:28)\n",
+  "status": "failed"
 });
 formatter.after({
-  "duration": 15600,
+  "duration": 12790,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7693463700,
+  "duration": 3231470632,
   "status": "passed"
 });
 formatter.background({
@@ -364,7 +365,7 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.i_sucessfully_open_the_account_creation_page()"
 });
 formatter.result({
-  "duration": 50800,
+  "duration": 21737,
   "status": "passed"
 });
 formatter.scenario({
@@ -419,19 +420,19 @@ formatter.match({
   "location": "AccountCreationStepDefinitions.tryCreateAccountExistingUser(DataTable)"
 });
 formatter.result({
-  "duration": 1144384300,
+  "duration": 723960971,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountCreationStepDefinitions.AccountMustNotBeCreated()"
 });
 formatter.result({
-  "duration": 737814000,
-  "error_message": "java.lang.AssertionError: expected:\u003cfalse\u003e but was:\u003ctrue\u003e\r\n\tat org.junit.Assert.fail(Assert.java:88)\r\n\tat org.junit.Assert.failNotEquals(Assert.java:834)\r\n\tat org.junit.Assert.assertEquals(Assert.java:118)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat GlueCode.AccountCreationStepDefinitions.AccountMustNotBeCreated(AccountCreationStepDefinitions.java:57)\r\n\tat ✽.Then an account must not be created(Feature_Files/S4Npage/S4N_CreateAccount.feature:35)\r\n",
+  "duration": 84059604,
+  "error_message": "java.lang.AssertionError: expected:\u003cfalse\u003e but was:\u003ctrue\u003e\n\tat org.junit.Assert.fail(Assert.java:88)\n\tat org.junit.Assert.failNotEquals(Assert.java:834)\n\tat org.junit.Assert.assertEquals(Assert.java:118)\n\tat org.junit.Assert.assertEquals(Assert.java:144)\n\tat GlueCode.AccountCreationStepDefinitions.AccountMustNotBeCreated(AccountCreationStepDefinitions.java:57)\n\tat ✽.Then an account must not be created(Feature_Files/S4Npage/S4N_CreateAccount.feature:35)\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 21000,
+  "duration": 13085,
   "status": "passed"
 });
 });

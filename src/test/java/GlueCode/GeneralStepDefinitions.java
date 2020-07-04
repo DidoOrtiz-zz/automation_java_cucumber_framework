@@ -16,7 +16,9 @@ public class GeneralStepDefinitions {
 
     @Before public void openBrowserWithLink() {
     	 	 	
-    	System.setProperty("webdriver.chrome.driver","C:\\Users\\diana.ortiz\\Downloads\\ws\\automation_java_cucumber_framework\\src\\test\\resources\\drivers\\chromedriver.exe");
+//    	System.setProperty("webdriver.chrome.driver","C:\\Users\\diana.ortiz\\Downloads\\ws\\automation_java_cucumber_framework\\src\\test\\resources\\drivers\\chromedriver.exe");
+    	System.setProperty("webdriver.chrome.driver","src/test/resources/drivers/chromedriver");
+    	
         driver = new ChromeDriver();
         driver.get(link);
     }

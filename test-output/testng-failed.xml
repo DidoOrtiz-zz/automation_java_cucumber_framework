@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [AccountCreationS4N]" guice-stage="DEVELOPMENT">
-  <parameter name="link" value="http://3.87.50.247:3000"/>
-  <test name="AccountCreationS4N">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]" parallel="none">
+  <parameter name="link" value="param-val-not-found"/>
+  <test verbose="2" name="Default test">
     <classes>
-      <class name="TestRunners.TestRunnerS4N"/>
+      <class name="TestRunners.TestRunner"/>
     </classes>
-  </test> <!-- AccountCreationS4N -->
-  <test name="AccountCreationS4N(failed)">
+  </test> <!-- Default test -->
+  <test name="Default test(failed)" parallel="none">
     <classes>
-      <class name="TestRunners.TestRunnerS4N">
+      <class name="TestRunners.TestRunner">
         <methods>
           <include name="setUpClass"/>
           <include name="feature" invocation-numbers="0"/>
           <include name="tearDownClass"/>
         </methods>
-      </class> <!-- TestRunners.TestRunnerS4N -->
+      </class> <!-- TestRunners.TestRunner -->
     </classes>
-  </test> <!-- AccountCreationS4N(failed) -->
-</suite> <!-- Failed suite [AccountCreationS4N] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
